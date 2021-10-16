@@ -373,8 +373,8 @@ const podcastSection = {
   // Please Provide with Your Podcast embeded Link
   //
   podcast: [
-    "https://anchor.fm/hnasr/embed/episodes/How-Redis-efficiently-snapshots-gigabytes-of-memory-to-disk-forking-e168gt2/a-a6d0nu8",
-    "https://anchor.fm/hnasr/embed/episodes/The-Anatomy-of-a-Proxy-Server--The-Backend-Engineering-Show-e169uvh/a-a6d5ohn",
+    "https://anchor.fm/hnasr/embed/episodes/Detailed-analysis-on-the-facebook-outage-e18dkva/a-a6lfcom",
+    "https://anchor.fm/hnasr/embed/episodes/How-Airline-WIFI-allows-Texting-but-not-Media-in-WhatsAppiMessage-e17u95j/a-a6jfrp3",
     "https://anchor.fm/hnasr/embed/episodes/Can-Redis-be-used-as-a-Primary-database-e156j4n/a-a685opv",
   ],
   display: true // Set false to hide this section, defaults to true
@@ -385,7 +385,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+2348028259007",
-
+  link: "https://calendly.com/kogunyale01/15min",
   email_address: "kogunyale01@gmail.com"
 };
 

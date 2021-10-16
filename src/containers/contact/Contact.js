@@ -34,6 +34,11 @@ export default function Contact() {
               </a>
               <br />
               <br />
+              <a className="contact-detail" href={contactInfo.link} target="_blank">
+                {contactInfo.link}
+              </a>
+              <br />
+              <br />
               <a
                 className="contact-detail-email"
                 href={"mailto:" + contactInfo.email_address}
