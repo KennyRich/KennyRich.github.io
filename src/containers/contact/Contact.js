@@ -35,7 +35,7 @@ export default function Contact() {
               <br />
               <br />
               <a className="contact-detail" href={contactInfo.link} target="_blank">
-                {contactInfo.link}
+                Click here to Schedule a meeting
               </a>
               <br />
               <br />
