@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.077e2d7d.chunk.css",
+    "main.js": "/portfolio-app/static/js/main.f35c9aea.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.f35c9aea.chunk.js.map",
+    "runtime-main.js": "/portfolio-app/static/js/runtime-main.de917f18.js",
+    "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.de917f18.js.map",
+    "static/js/2.5ecdab17.chunk.js": "/portfolio-app/static/js/2.5ecdab17.chunk.js",
+    "static/js/2.5ecdab17.chunk.js.map": "/portfolio-app/static/js/2.5ecdab17.chunk.js.map",
+    "static/css/3.25727338.chunk.css": "/portfolio-app/static/css/3.25727338.chunk.css",
+    "static/js/3.53fd4764.chunk.js": "/portfolio-app/static/js/3.53fd4764.chunk.js",
+    "static/js/3.53fd4764.chunk.js.map": "/portfolio-app/static/js/3.53fd4764.chunk.js.map",
+    "static/css/4.a8329f31.chunk.css": "/portfolio-app/static/css/4.a8329f31.chunk.css",
+    "static/js/4.3af93019.chunk.js": "/portfolio-app/static/js/4.3af93019.chunk.js",
+    "static/js/4.3af93019.chunk.js.map": "/portfolio-app/static/js/4.3af93019.chunk.js.map",
+    "index.html": "/portfolio-app/index.html",
+    "precache-manifest.eb9eb1033619708cdfd5033b5a831a3b.js": "/portfolio-app/precache-manifest.eb9eb1033619708cdfd5033b5a831a3b.js",
+    "service-worker.js": "/portfolio-app/service-worker.js",
+    "static/css/3.25727338.chunk.css.map": "/portfolio-app/static/css/3.25727338.chunk.css.map",
+    "static/css/4.a8329f31.chunk.css.map": "/portfolio-app/static/css/4.a8329f31.chunk.css.map",
+    "static/css/main.077e2d7d.chunk.css.map": "/portfolio-app/static/css/main.077e2d7d.chunk.css.map",
+    "static/js/2.5ecdab17.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.5ecdab17.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio-app/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/UILogo.png": "/portfolio-app/static/media/UILogo.f5e89633.png",
+    "static/media/contactMailDark.svg": "/portfolio-app/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/portfolio-app/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/portfolio-app/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/portfolio-app/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/portfolio-app/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de917f18.js",
+    "static/js/2.5ecdab17.chunk.js",
+    "static/css/main.077e2d7d.chunk.css",
+    "static/js/main.f35c9aea.chunk.js"
+  ]
+}
