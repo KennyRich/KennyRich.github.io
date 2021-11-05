@@ -14,10 +14,11 @@ const greeting = {
   username: "Ogunyale Kehinde",
   title: "Hi all, I'm Kenny",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer and Machine learning engineer with focus in Natural Language processing 🚀 I have experience in building Web applications with Groovy, JavaScript, Python, Java, React and some other cool libraries and frameworks. In my spare time I have decided to contribute to open source projects"
+    "A passionate Full Stack Software Developer and Machine learning engineer with focus in Natural Language processing 🚀. \n I have experience in building Web applications with Groovy, JavaScript, Python, Java, React and some other cool libraries and frameworks. \n\n I have also built various natural language models and I participate in kaggle competitions. \n\n" +
+      " I also contribute to various open source projects."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1sq4uT2z0DrcXFJOj3ql3Mvctel0XjRQL/view",
+    "https://drive.google.com/file/d/155jnFN8qsd4yy8SKMFGmud8uwEwIh8mL/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -37,16 +38,20 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER AND MACHINE LEARNING ENGINEER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "MACHINE LEARNING AND FULL STACK ENGINEER WHO IS VERY PASSIONATE ABOUT LEARNING AND BUILDING MACHINE LEARNING MODELS AND SOFTWARES AT SCALE",
   skills: [
+    emoji(
+        "⚡ Design scalable software architecture and write optimized code"
+    ),
+    emoji(
+        "⚡ Build robust machine learning pipelines for various mirco-services to interact whilst flexing my MLOps skills"
+    ),
     emoji("⚡ Build and maintain REST APIs"),
     emoji("⚡ Build Interactive front-end user interface"),
     emoji(
-      "⚡ Build robust machine learning pipelines for various mirco-services to interact with"
-    ),
-    emoji(
       "⚡ Integration of third party services such as AWS / GCP / DigitalOcean"
-    )
+    ),
+
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -84,6 +89,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
+    },
+    {
+      skillName: "gcp",
+      fontAwesomeClassname: "fab fa-google"
     },
     {
       skillName: "firebase",
@@ -136,10 +145,6 @@ const techStack = {
     {
       Stack: "Backend",
       progressPercentage: "90%"
-    },
-    {
-      Stack: "Programming",
-      progressPercentage: "95%"
     },
     {
       Stack: "Front-end",

@@ -4,6 +4,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import {contactInfo} from "../../portfolio";
 import emoji from "react-easy-emoji";
 import {Fade} from "react-reveal";
+import Button from "../button/Button";
 
 export default function GithubProfileCard({prof}) {
   if (prof.isHireable) {
@@ -22,6 +23,13 @@ export default function GithubProfileCard({prof}) {
             </div>
             <h2 className="bio-text">"{emoji(String(prof.bio))}"</h2>
             <h2 className="subTitle"> kogunyale01@gmail.com</h2>
+            <div className="button-greeting-div">
+              <Button
+                  text="Hire Me"
+                  newTab={true}
+                  href={"mailto:kogunyale@gmail.com"}
+              />
+            </div>
             {prof.location !== null && (
               <div className="location-div">
                 <span className="desc-prof">
